@@ -1,5 +1,7 @@
 # Test Serempre
 
+El codigo se hizo en javascript con express, se utiliza babel para transpilar el codigo ya que no se puede desplegar codigo basado en ES7.
+
 ## Correr en local
 
 Para correr en local ejecutar los siguientes comandos:
